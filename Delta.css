@@ -1,0 +1,80 @@
+section{
+	font-family: 'Arial', sans-serif;
+}
+ol {
+  padding: 14px 100px;
+    text-align:center;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  background-color: red;
+  width: 1200px;
+}
+li {
+         text-align: center;
+         padding : 5px;
+         }
+
+body {
+  background-color: black;}
+
+textarea{
+	width: 700px;
+	height: 50px;
+	border: none;
+	border-radius:40px;
+	padding: 50px;
+	font-family: Tahoma, sans-serif;
+    margin-top: 70px;
+    margin-left: 25%;
+	background-color: white;
+	background-repeat: no-repeat;
+}
+ .first {
+    width: 10%;
+    background-color: #123456;
+    color: white;
+    padding: 14px 20px;
+    margin-top:65px;
+    margin-left: 25%;
+    border: solid;
+    border-color: yellow;
+    border-radius: 40px;
+    cursor: pointer;
+}
+.second {
+    width: 10%;
+    background-color: #123456;
+    color: white;
+    padding: 14px 20px;
+    margin-top:65px;
+    margin-left: 25%;
+    border: solid;
+    border-color: yellow;
+    border-radius: 40px;
+    cursor: pointer;
+}
+.third {
+    width: 10%;
+    background-color: #123456;
+    color: white;
+    padding: 14px 20px;
+    margin-top:60px;
+    margin-left: 25%;
+    border: solid;
+    border-color: yellow;
+    border-radius: 40px;
+    cursor: pointer;
+}
+.fourth {
+    width: 10%;
+    background-color: #123456;
+    color: white;
+    padding: 14px 20px;
+    margin-top:60px;
+    margin-left: 25%;
+    border: solid;
+    border-color: yellow;
+    border-radius: 40px;
+    cursor: pointer;
+}
